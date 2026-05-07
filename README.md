@@ -1,139 +1,114 @@
 <p align="center">
-  <img width="200" src="https://avatars.githubusercontent.com/u/116294191?s=400&u=836651aa6fc8074d4c396f6bce6c830475532b1b&v=4">
+  <img width="150" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/116294191?s=400&u=836651aa6fc8074d4c396f6bce6c830475532b1b&v=4">
 </p>
 
 <h1 align="center">
-  Hello Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hi, I'm Vikas Singh 👋
 </h1>
 
 <p align="center">
-  <strong>Hi! My name is Vikas. Thank you for taking the time to view my GitHub Profile 😊</strong>
+  <strong>Android & Flutter Developer · Java Spring Boot · AI Apps · Open to Work</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikas-singh-android" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="mailto:vikasbinodsingh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="https://github.com/silentboy-07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="30" />
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="40%" alt="Github Header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 🎓 Computer Engineering Graduate from **Marwadi University (NAAC A+)**
+- 💼 Ex Back-End Intern @ **TSS Consultancy** — built a production-grade automated data pipeline from scratch using **Java Spring Boot + Python**
+- 📱 Building mobile apps with **Flutter** and native **Android (Kotlin & Java)**
+- 🤖 Passionate about **AI-powered apps** — built Saarthi AI using DeepSeek via OpenRouter API
+- 🌱 Currently learning: **Jetpack Compose & Clean Architecture**
+- 💬 Ask me about: **Flutter, Android, Kotlin, Java, Firebase, REST APIs**
+- 📫 Reach me at: **vikasbinodsingh@gmail.com**
+- 🔍 **Open to Work** — looking for Android / Flutter Developer roles
 
-<ul>
-  <li>🔭 Working on <strong>Android & Flutter apps</strong></li>
-  <li>🌱 Learning <strong>Firebase & REST APIs</strong></li>
-  <li>👯 Open to collaborate on <strong>Open Source Projects</strong></li>
-  <li>💬 Ask me about <strong>Android, SQL, Java, C#</strong></li>
-  <li>📫 Reach me at: <strong>vikasbinodsingh@gmail.com</strong></li>
-</ul>
+---
 
+## 🚀 Featured Projects
+
+| Project | Tech | Description |
+|---|---|---|
+| 🤖 [Saarthi AI](https://github.com/silentboy-07/Flutter_Chat_App) | Flutter · DeepSeek AI · OpenRouter | AI-powered chatbot with real-time chat UI and Markdown rendering |
+| 💊 Dosevia | Flutter · Firebase · GetX | Medicine reminder app with push notifications & Google Maps |
+| 🌤️ Weather App | Kotlin · XML · Firebase | Real-time Android weather app using OpenWeatherMap API |
+| 🛡️ [Filterware](https://github.com/silentboy-07/ResponsibleAIModerationTool) | JavaScript · Gemini API | AI content moderation tool promoting responsible AI usage |
+
+---
+
+## 🛠️ Tech Stack
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+
+**Backend & Database**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Others**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Google Cloud Arcade Premium Plus Milestone Achiever**
+- 📮 **Postman API Fundamentals Student Expert**
+- 🤖 **Android Developer Fundamentals** — Infosys
+- 🐧 **NDG Linux Essentials** — Cisco
+- 💡 Hackathons: **Flipkart GRiD · Hack The Mountains 5.0 · INTELLIFY 2023**
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=silentboy-07&theme=dracula&hide_border=false" height="150" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silentboy-07&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silentboy-07&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silentboy-07&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
 
-## 🚀 Tech Stack & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
-
----
-
-## 🔗 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/vikas-singh-android" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:vikasbinodsingh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://youtube.com/c/VtechStar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
-
----
-
-## 🐍 GitHub Snake Activity
+## 🐍 GitHub Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/silentboy-07/silentboy-07/output/snake.svg" alt="Snake animation">
+</p>
+
+---
+
+<p align="center">
+  <em>⭐ If you like any of my projects, consider giving them a star!</em>
 </p>
