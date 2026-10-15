@@ -89,18 +89,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=silentboy-07&theme=dracula&hide_border=false" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silentboy-07&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-</div>
-
----
-
 ## 🐍 GitHub Activity
 
 <p align="center">
